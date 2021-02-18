@@ -1,0 +1,15 @@
+.categories {
+    height: 340px;
+    width: 230px;
+  }
+  .categories .scrollable {
+    overflow-y: auto;
+    max-height: 280px;
+  }
+
+  .copyCode{
+      border: 1px solid #7fc7c7;
+      border-radius: 10px;
+      background-color: #ffff;
+      color: #73cef0
+  }
